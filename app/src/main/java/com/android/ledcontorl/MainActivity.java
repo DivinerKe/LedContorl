@@ -27,6 +27,9 @@ import java.io.IOException;
  * 2025年5月29日 D.K Mo
  *
  */
+/*
+  测试github提交 2025年7月4日02:07:07
+ */
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "ledeffect";
